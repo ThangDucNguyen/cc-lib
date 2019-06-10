@@ -1,0 +1,23 @@
+{
+  "name": "@thangducnguyen/cc-lib",
+  "author": "ThangDucNguyen",
+  "description": "This library supply for user common component that used for Angular application. Include Header Component, sidebar menu, footer and Login component with high level design that allow user to customize and redesign ",
+  "version": "0.0.2",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/cc-lib.umd.js",
+  "module": "fesm5/cc-lib.js",
+  "es2015": "fesm2015/cc-lib.js",
+  "esm5": "esm5/cc-lib.js",
+  "esm2015": "esm2015/cc-lib.js",
+  "fesm5": "fesm5/cc-lib.js",
+  "fesm2015": "fesm2015/cc-lib.js",
+  "typings": "cc-lib.d.ts",
+  "metadata": "cc-lib.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
